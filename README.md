@@ -1,7 +1,13 @@
 <img src="https://github.com/kawser-ahmed-nihad/kawser-ahmed-nihad/blob/main/Banner.png" alt="">
 
 # 💫 About Me:
-Hi, I’m learning to be a Full Stack Developer, working with React, Node.js, MongoDB & Tailwind CSS.<br>Love building apps, writing clean code, and learning something new every day. 
+Hi, I’m learning to be a Full Stack Developer, working with React, Node.js, MongoDB & Tailwind CSS.  
+Love building apps, writing clean code, and learning something new every day.
+
+#### 🔧 Current Activities:
+- 🚀 Exploring **Next.js**
+- 🌐 Working on a **Tourism Website Project**
+- 📘 Practicing **Clean Architecture & Design Patterns**
 
 
 # 💻 Tech Stack:
