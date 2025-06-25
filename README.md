@@ -10,7 +10,7 @@ Hi, I’m learning to be a Full Stack Developer, working with React, Node.js, Mo
 
 **Social Media:**
 
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/hussainweb](https://x.com/Nihad732860?t=iZ7gm24tfQziyzmMsq8udw&s=09))
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)]((https://x.com/Nihad732860?t=iZ7gm24tfQziyzmMsq8udw&s=09))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
 
