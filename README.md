@@ -1,4 +1,4 @@
-![Banner.png])
+<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="">
 
 # 💫 About Me:
 Hi, I’m learning to be a Full Stack Developer, working with React, Node.js, MongoDB & Tailwind CSS.<br>Love building apps, writing clean code, and learning something new every day. 
