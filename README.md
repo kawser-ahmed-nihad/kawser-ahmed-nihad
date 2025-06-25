@@ -1,3 +1,5 @@
+![Banner Image](image/Banner.png)
+
 # 💫 About Me:
 Hi, I’m learning to be a Full Stack Developer, working with React, Node.js, MongoDB & Tailwind CSS.<br>Love building apps, writing clean code, and learning something new every day. 
 
